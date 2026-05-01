@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+members = [
+    "crates/arm7tdmi",
+    "crates/gba",
+]
+
+[workspace.dependencies]
